@@ -1,0 +1,71 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.education {
+    list-style-type: none;
+}
+
+.bi{
+    font-size: 2rem;
+}
+
+.bi-facebook{
+    color: #4267B2
+}
+
+.bi-twitter{
+    color: #1DA1F2
+}
+
+.bi-instagram{
+    color: #125688;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  -webkit-background-clip: text;
+          /* Also define standard property for compatibility */
+          background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.course{
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+.coursetitle{
+    text-align: center;
+    padding-top: 2rem;
+}
+
+.coursedesc{
+    text-align: center;
+}
+
+
+body {
+    background: url("geom.png") no-repeat center center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-color: #00a896;
+}
+
+
+.container{
+    background-color: white;
+}
+
+#Scratch{
+    color: white;
+}
+
+#Roblox {
+    color: white;
+}
+
+maintitle {
+    color: blue;
+}
