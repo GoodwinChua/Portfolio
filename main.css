@@ -66,6 +66,14 @@ body {
     color: white;
 }
 
+#photoSlider{
+    color: white;
+}
+
 maintitle {
     color: blue;
+}
+
+#prevbutton {
+    color: black;
 }
